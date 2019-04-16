@@ -1,0 +1,541 @@
+<body>
+    <style type="text/css">
+      html, body {
+          background-image: url('https://i.imgur.com/k80a75o.png');
+          box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, 0.64);
+      }
+    </style>
+<div class="wrapper">
+    
+    <!-- Page Content -->
+    <div id="content">
+
+        
+
+        
+
+    <div class="py-3">
+        <div class="row">
+            <div class="mx-auto col-sm-12">
+                <!-- form user info -->
+                <div class="card">
+                    <!--
+                    <div class="card-header">
+                        <small class="text-muted">Socio: 4337</small>
+                        <h3 class="mb-0">Ruth Peralta Hidalgo</h3>
+                        <h7> Nacido el 18/sep/1951 (67a)</h7>
+                    </div>
+                    -->
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="alert alert-info">
+                                <h3>Hola Ruth Peralta Hidalgo, </h3>
+                                <p>
+                                    Por favor llena la información que ves a continuación, y da click en la palabra
+                                    "editar" en los campos que creas que merecen una actualización.
+                                    <br>
+                                    Si tienes alguna duda o no puedes editar algo en específico, no te preocupes, hasta
+                                    abajo viene un campo abierto para que nos digas
+                                    en redacción libre lo que deseas modificar
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="card-body col-md-6">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Mi Información</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/informacion/" class="c18-sit importantlink"> Editar Información</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-user mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <strong class="d-block text-gray-dark">Nombre:</strong>
+                                        Ruth Peralta Hidalgo
+
+                                        <strong class="d-block text-gray-dark">Fecha de Nacimiento:</strong>
+                                        18/sep/1951
+
+                                        <strong class="d-block text-gray-dark">Tipo de Sangre:</strong>
+                                        O+
+
+                                        <strong class="d-block text-gray-dark">¿Donador?:</strong>
+                                        Si
+
+                                        <strong class="d-block text-gray-dark">Shomer Shabat:</strong>
+                                        Si
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-body col-md-6">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Mis Parientes</h5>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-user mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                    </p><table class="table table-hover nomargin">
+                                        <thead>
+                                        <tr>
+                                            <th>Persona</th>
+                                            <th>Tipo de Relación</th>
+                                            <th>Fecha de Nacimiento</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                        
+                                        
+                                        
+                                            <tr>
+                                                <td>Alejandro Cohen Peralta</td>
+                                                <td>
+                                                    
+                                                        Hijo
+                                                    
+                                                </td>
+                                                <td>03/nov/1971</td>
+                                                <td>
+                                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/familiar/0x7c79/" class="c18-sit importantlink"> Editar</a>
+                                                </td>
+                                            </tr>
+                                        
+                                            <tr>
+                                                <td>Yolanda Cohen Peralta</td>
+                                                <td>
+                                                    
+                                                        Hija
+                                                    
+                                                </td>
+                                                <td>21/ene/1978</td>
+                                                <td>
+                                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/familiar/0x7c78/" class="c18-sit importantlink"> Editar</a>
+                                                </td>
+                                            </tr>
+                                        
+                                        </tbody>
+                                    </table>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="card-body col-md-6">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Emails de Contacto</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/nuevo/email/" class="c18-sit importantlink">Nuevo Email</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-envelope mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <!-- emails -->
+                                    </p><table class="table table-hover nomargin">
+                                        <thead>
+                                        <tr>
+                                            <th>Tipo</th>
+                                            <th>Email</th>
+                                            <th>Status</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            
+                                                <tr>
+                                                    <td>Personal</td>
+                                                    <td>algo@gmail.com</td>
+                                                    <td>Inactivo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/email/14715/" class="c18-sit importantlink"> Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                            
+                                                <tr>
+                                                    <td>Personal</td>
+                                                    <td>cohen77@gmail.com</td>
+                                                    <td>Activo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/email/9942/" class="c18-sit importantlink"> Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                        </tbody>
+                                    </table>
+                                    <!-- emails -->
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-body col-md-6">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Teléfonos de Contacto</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/nuevo/telefono/" class="c18-sit importantlink">Nuevo Teléfono</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-envelope mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <!-- Phone -->
+                                    </p><table class="table table-hover nomargin">
+                                        <thead>
+                                        <tr>
+                                            <th>Tipo</th>
+                                            <th>País</th>
+                                            <th>Número</th>
+                                            <th>Status</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            
+                                                <tr>
+                                                    <td>Personal</td>
+                                                    <td>México</td>
+                                                    <td>044557903-5696
+                                                        
+                                                    </td>
+                                                    <td>Activo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/telefono/10485/" class="importantlink">Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                            
+                                                <tr>
+                                                    <td>Personal</td>
+                                                    <td>Mexico</td>
+                                                    <td>55 5520-5594
+                                                        
+                                                    </td>
+                                                    <td>Activo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/telefono/10486/" class="importantlink">Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                            
+                                                <tr>
+                                                    <td>Personal</td>
+                                                    <td>Mexico</td>
+                                                    <td>55 5520-7692
+                                                        
+                                                    </td>
+                                                    <td>Activo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/telefono/10487/" class="importantlink">Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                        </tbody>
+                                    </table>
+                                    <!-- Phone -->
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="card-body col-md-12">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Direcciones</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/nuevo/direccion/" class="c18-sit importantlink">Nueva Dirección</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-map-marker-alt mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <!-- Direcciones -->
+                                    </p><table class="table table-hover nomargin">
+                                        <thead>
+                                        <tr>
+                                            <th>Tipo</th>
+                                            <th>Dirección</th>
+                                            <th>Status</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            
+                                                <tr>
+                                                    <td>Casa</td>
+                                                    <td>SIERRA TEJUPILCO58 None None 11000, None, Miguel Hidalgo, None, None</td>
+                                                    <td>Activo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/direccion/10965/" class="importantlink">Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                            
+                                                <tr>
+                                                    <td>Casa</td>
+                                                    <td>SIERRA TEJUPILCO 58  11000, Colonia Lomas de Chapultepec I Seccion, Miguel Hidalgo, Ciudad de México, Mexico</td>
+                                                    <td>Activo</td>
+                                                    <td class="c18-grid-edit">
+                                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/editar/direccion/10966/" class="importantlink">Editar</a>
+                                                    </td>
+                                                </tr>
+                                            
+                                        
+                                        </tbody>
+                                    </table>
+                                    <!-- emails -->
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="card-body col-md-12">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Mi Trabajo</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/nuevo/trabajo/" class="c18-sit importantlink">Nuevo Trabajo</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-briefcase mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <!-- Mi Trabajo -->
+                                    </p><table class="table table-hover nomargin">
+                                        <thead>
+                                        <tr>
+                                            <th>Industria</th>
+                                            <th>Empresa</th>
+                                            <th>Cargo</th>
+                                            <th>Años</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            <tr>
+                                                <td class="category-title" colspan="4">No hay registros</td>
+                                            </tr>
+                                        
+                                        </tbody>
+                                    </table>
+                                    <!-- Mi Trabajo -->
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="card-body col-md-12">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Mi Educación</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/nuevo/educacion/" class="c18-sit importantlink">Nueva Educación</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-graduation-cap mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <!-- Mi educación -->
+                                    </p><table class="table table-hover nomargin">
+                                        <thead>
+                                        <tr>
+                                            <th>Grado</th>
+                                            <th>Institución</th>
+                                            <th>Título</th>
+                                            <th>Años</th>
+                                            <th>Pertenece a Red Judía</th>
+                                            <th>País</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            <tr>
+                                                <td class="category-title" colspan="6">No hay registros</td>
+                                            </tr>
+                                        
+                                        </tbody>
+                                    </table>
+                                    <!-- Mi educación -->
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="card-body col-md-12">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Mi Trabajo Voluntario</h5>
+                                <small class="d-block text-right mt-3">
+                                    <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/nuevo/trabajo-comunitario/" class="c18-sit importantlink">Nuevo Trabajo Voluntario</a>
+                                </small>
+                                <div class="media text-muted pt-3">
+                                    <i class="fas fa-people-carry mr-3"></i>
+                                    <p class="media-body pb-3 mb-0 lh-125 border-bottom border-gray">
+                                        <!-- Trabajo Voluntario-->
+                                    </p><table class="table table-hover">
+                                        <thead>
+                                        <tr>
+                                            <th>Institución</th>
+                                            <th>Puesto</th>
+                                            <th>Años</th>
+                                            <th></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            <tr>
+                                                <td class="category-title" colspan="4">No hay registros</td>
+                                            </tr>
+                                        
+                                        </tbody>
+                                    </table>
+                                    <!-- Trabajo Voluntario -->
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="card-body col-md-12">
+                            <div class="p-3 bg-light rounded box-shadow">
+                                <h5 class="border-bottom border-gray pb-2 mb-0">Finalizar Recolección de
+                                    Información</h5>
+
+                                <form id="form" method="post" action="" enctype="multipart/form-data">
+                                    <div class="row mx-1">
+                                        <div class="col-md-12">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="p8JrzylmXE9daKCqqqkEKqZI7MR43giDKUzJOL5JUtcnygiZ3WqmhSWN5t87Q3ao">
+                                            
+                                                
+                                                    <div class="row space-between mt-4">
+                                                        <label class="category-title">
+                        <span for="">Comentarios
+                            
+                        </span>
+                                                        </label>
+                                                        <textarea name="comments" cols="40" rows="10" maxlength="2048" class="form-control" id="id_comments">algo algo mas</textarea>
+                                                        
+
+                                                        
+                                                    </div>
+                                                
+                                            
+                                        </div>
+                                    </div>
+                                    <br>
+                                    <div class="text-center mt-4">
+                                        <button type="submit" class="btn btn-success"><i class="fas fa-save fa-fw"></i> Guardar Comentarios
+                                        </button>
+                                        <a href="/actualizacion-de-datos/ed58b963-4259-427a-a782-52b24c0f86dc/finalizar/" class="btn btn-primary"><i class="fas fa-check-circle fa-fw"></i> He terminado mi actualización</a>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /form user info -->
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+
+
+    <div class="overlay"></div>
+
+</div>
+
+
+<!-- Bootstrap 4 scripts -->
+<script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
+</script>
+
+<!-- jQuery UI -->
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<!-- jQuery Custom Scroller CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+<!-- DatePicker -->
+<script src="https://cdn.jsdelivr.net/npm/gijgo@1.9.10/js/gijgo.min.js" type="text/javascript"></script>
+
+<!-- jquery UI -->
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.btn-back').click(function(evt){
+            evt.preventDefault();
+             window.history.back();
+        });
+        $('#id_birth_date').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#id_death_date').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#id_start_date').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#id_end_date').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#id_init_date').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#id_apply_date').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#id_date_scheduled').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('.datepicker').datepicker({
+            dateFormat: "yy-mm-dd"
+        });
+        $('#sidebarCollapse').on('click', function () {
+            $('#sidebar').toggleClass('active');
+        });
+
+    });
+
+    function formToDict(elem) {
+        var formArray = $(elem).serializeArray();
+        var data = {};
+
+        for (var i = 0; i < formArray.length; i++) {
+            var row = formArray[i];
+            data[row.name] = row.value;
+        }
+
+        return data;
+    }
+</script>
+
+
+
+
+</body>

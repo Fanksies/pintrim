@@ -1,0 +1,134 @@
+$page-font--primary: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important; 
+$color--primary:#8DB7C4;
+$color--secondary:#6d6e71;
+$color--accent:#607b84;
+$navbar--peige:#fff;
+$font__color--primary:#304145;
+$button--primary:#033823;
+
+/* BEM COMPLIANT CSS DOCUMENT, THREAD WITH CARE */
+
+
+/* General Styles */
+
+body, html {
+	font-family:$page-font--primary;
+	font-weight:300;
+	background:#f7f7f8;	
+	color:$font__color--primary;
+}
+
+.btn-primary {
+	background:lighten($button--primary, 10%);
+	border:1px solid lighten($button--primary, 15%);
+}
+
+.btn-primary:hover {
+	background:lighten($button--primary, 20%);
+	border:1px solid lighten($button--primary, 25%);	
+}
+
+.btn-primary:active:focus {
+	background:darken($button--primary, 10%);
+	border:1px solid darken($button--primary, 15%);	
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+	background:lighten($button--primary, 20%);
+	border:1px solid lighten($button--primary, 15%);	
+}
+
+.btn-primary.focus, .btn-primary:focus {
+	box-shadow: 0 0 0 .2rem rgba(7,155,96,1) !important;
+}
+
+/* Flexbox */
+
+.flex {
+	display:flex
+}
+
+.flex--space-between {
+	justify-content:space-between;
+}
+
+.flex--column {
+	flex-direction:column;
+}
+
+.flex--space-around {
+	justify-content:space-around;
+}
+
+.flex--align-center {
+	align-self:center;
+}
+
+/* Navbar Shenanigans */
+
+.navbar__logo {
+	width:100%;
+	max-width:150px;
+}
+
+.navbar--peige-bg {
+	background:$navbar--peige;
+}
+
+.navbar {
+	border-top:1px solid #cddfe7;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: $font__color--primary;
+    font-family: inherit;
+    font-weight: 500;
+}
+
+.nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+	color:lighten($font__color--primary, 30%);
+}
+
+/* Container Shenanigans */
+
+.sushi {
+	border-radius:.25rem;
+	background:white;
+	padding:1em;
+	margin:1em 0;
+	border:1px solid rgba(0,0,0,.125);
+}
+
+.lh-condensed-ultra {
+    line-height: 1 !important;
+}
+
+/* Images */
+
+.graphic__admin {
+	margin: 0 auto;
+	max-width: 18em;
+}
+
+.graphic__admin--logo {
+	margin: 0 auto;
+	max-width: 10em;
+}
+
+/* Tables */
+
+.noborder {
+	border-top: 0 !important;
+}
+
+.table > thead > tr > th {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #9A9A9A;
+    font-weight: 400;
+    padding-bottom: 5px;
+    border-top: none !important;
+    border-bottom: none;
+    text-align: left !important;
+   
+}
